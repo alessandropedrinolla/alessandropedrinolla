@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alessandropedrinolla
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning pyton
-- 💞️ I’m looking to collaborate on videogames
+- 👀 I’m interested in sports, learning and psychology
+- 🌱 I’m currently learning what I need right now
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me a.pedrinolla@gmail.com
 
 <!---
