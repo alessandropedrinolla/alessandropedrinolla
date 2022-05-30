@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alessandropedrinolla
 - 👀 I’m interested in sports and learning
 - 🌱 I’m currently learning fullstack development with javascript
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me a.pedrinolla@gmail.com
 
 <!---
